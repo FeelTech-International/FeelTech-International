@@ -16,9 +16,14 @@
 
 ## 👋 À propos
 
-Je conçois, sécurise et déploie des **plateformes métier de bout en bout** — de la base de données jusqu'à l'application web/mobile et au déploiement continu. Fondateur de **FeelTech International**, j'accompagne les entreprises dans leur **transformation numérique** avec des logiciels sur mesure, fiables et prêts pour la production.
+Ingénieur logiciel et **fondateur de FeelTech International**, je transforme des besoins métier complexes en **plateformes numériques fiables, sécurisées et prêtes pour la production**. Mon terrain de prédilection : les **SaaS multi-tenant**, les **ERP** et les systèmes de gestion à fort enjeu — RH & paie, finance, éducation, contrôle d'accès — là où la moindre faille se paie, et où la rigueur n'est donc pas une option.
 
-Ma conviction : **l'intelligence artificielle est un levier d'ingénierie**, pas un gadget. Je l'intègre à chaque étape du cycle de développement pour livrer **plus vite, avec une qualité et une sécurité de niveau entreprise**.
+Je maîtrise **toute la chaîne de valeur logicielle** : modélisation de bases de données, architecture applicative, développement **web & mobile**, **sécurité** (isolation stricte des données, chiffrement, authentification forte) et **exploitation** (CI/CD, cloud, déploiement continu). Cette vision de bout en bout me permet de livrer des produits **cohérents, performants et maintenables**, puis de les faire vivre dans la durée — pas seulement de les mettre en ligne.
+
+Ma conviction : **l'intelligence artificielle est un levier d'ingénierie, pas un gadget.** Je l'intègre à chaque étape du cycle de développement pour accélérer la livraison **sans jamais transiger sur la qualité ni la sécurité**. J'accompagne chaque client avec transparence, du premier échange jusqu'à la maintenance, guidé par un principe simple : **livrer en confiance, ne rien casser.**
+
+> _« The best way to predict the future is to invent it. »_ &nbsp;—&nbsp; **Alan Kay**, pionnier de l'informatique moderne
+> <br/><sub>« La meilleure façon de prédire l'avenir, c'est de l'inventer. »</sub>
 
 ---
 
@@ -43,45 +48,13 @@ J'ai fait de l'IA une véritable **méthode de travail**, mobilisée sur **l'ens
 
 Des plateformes **réellement déployées et utilisées** — cliquez pour visiter :
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://cool-erp.com"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fcool-erp.com?w=640&h=400" width="100%" alt="Cool ERP"/></a>
-      <br/><b>🏢 Cool ERP</b><br/>
-      <sub>ERP web/PWA multi-société : RH &amp; paie, finance, achats, immobilisations, messagerie chiffrée. Offline-first.</sub>
-      <br/>🔗 <a href="https://cool-erp.com">cool-erp.com</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://coo-ent.com"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fcoo-ent.com?w=640&h=400" width="100%" alt="Cool ERP — vitrine"/></a>
-      <br/><b>🌟 Cool ERP — vitrine</b><br/>
-      <sub>Site commercial de présentation de la suite Cool ERP.</sub>
-      <br/>🔗 <a href="https://coo-ent.com">coo-ent.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://ages-five.vercel.app"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fages-five.vercel.app?w=640&h=400" width="100%" alt="AGES"/></a>
-      <br/><b>🎓 AGES</b><br/>
-      <sub>Système intégré de gestion des établissements scolaires.</sub>
-      <br/>🔗 <a href="https://ages-five.vercel.app">ages-five.vercel.app</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://portal.agpevi.cm"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fportal.agpevi.cm?w=640&h=400" width="100%" alt="Student Check"/></a>
-      <br/><b>🪪 Student Check</b><br/>
-      <sub>Plateforme de contrôle d'accès des étudiants.</sub>
-      <br/>🔗 <a href="https://portal.agpevi.cm">portal.agpevi.cm</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://feeltech-int.com"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Ffeeltech-int.com?w=640&h=400" width="100%" alt="FeelTech International"/></a>
-      <br/><b>🖥️ FeelTech International</b><br/>
-      <sub>Site officiel &amp; vitrine de services.</sub>
-      <br/>🔗 <a href="https://feeltech-int.com">feeltech-int.com</a>
-    </td>
-    <td width="50%" align="center"></td>
-  </tr>
-</table>
+| Projet | Description | Lien |
+|---|---|---|
+| 🏢 **Cool ERP** | ERP web/PWA multi-société : RH & paie, finance, achats, immobilisations, messagerie chiffrée. Offline-first. | **[cool-erp.com](https://cool-erp.com)** |
+| 🌟 **Cool ERP — vitrine** | Site commercial de présentation de la suite Cool ERP. | **[coo-ent.com](https://coo-ent.com)** |
+| 🎓 **AGES** | Système intégré de gestion des établissements scolaires. | **[ages-five.vercel.app](https://ages-five.vercel.app)** |
+| 🪪 **Student Check** | Plateforme de contrôle d'accès des étudiants. | **[portal.agpevi.cm](https://portal.agpevi.cm)** |
+| 🖥️ **FeelTech International** | Site officiel & vitrine de services. | **[feeltech-int.com](https://feeltech-int.com)** |
 
 ---
 
