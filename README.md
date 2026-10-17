@@ -300,11 +300,7 @@ Système de gestion des investissements et de micro-crédit pour institutions fi
 
 ## 📈 Graphique d'Activité
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FeelTech-International&bg_color=0A192F&color=00D4AA&line=0891B2&point=00D4AA&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FeelTech-International&bg_color=FFFFFF&color=0891B2&line=00D4AA&point=1E40AF&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FeelTech-International&bg_color=0A192F&color=00D4AA&line=0891B2&point=00D4AA&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FeelTech-International&theme=github_dark" width="100%" alt="Activity Graph" />
 
 </div>
 
