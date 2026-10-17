@@ -11,11 +11,11 @@
       <animate attributeName="stop-color" values="#1E40AF;#00D4AA;#0891B2;#1E40AF" dur="8s" repeatCount="indefinite"/>
     </stop>
   </linearGradient>
-  <linearGradient id="logoGrad" x1="0" y1="0" x2="0" y2="1">
+  <linearGradient id="logoGrad" x1="0" y1="0" x2="0" y2="320" gradientUnits="userSpaceOnUse">
     <stop offset="0" stop-color="#0891B2"/>
     <stop offset="0.5" stop-color="#1E40AF"/>
     <stop offset="1" stop-color="#0A192F"/>
-    <animateTransform attributeName="gradientTransform" type="translate" values="0 -0.5; 0 0.5; 0 -0.5" dur="6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 -80; 0 80; 0 -80" dur="6s" repeatCount="indefinite"/>
   </linearGradient>
   <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#FFFFFF"/>
@@ -25,9 +25,9 @@
     <feGaussianBlur stdDeviation="3" result="blur"/>
     <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
-  <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
-    <feGaussianBlur stdDeviation="0.5" result="blur"/>
-    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  <filter id="textGlow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="0.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
   <clipPath id="windowClip"><rect x="2" y="2" width="896" height="496" rx="12"/></clipPath>
 </defs>
@@ -42,54 +42,54 @@
   <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
 </rect>
 <g transform="translate(40, 70)">
-  <text font-size="11" fill="url(#logoGrad)" filter="url(#textGlow)">
-    <tspan x="0" dy="0">+-------------------------------------------+</tspan>
-    <tspan x="0" dy="16">|                                           |</tspan>
-    <tspan x="0" dy="16">|   FFFFF EEEEE EEEEE L                     |</tspan>
-    <tspan x="0" dy="16">|   F     E     E     L                     |</tspan>
-    <tspan x="0" dy="16">|   FFFF  EEEE  EEEE  L                     |</tspan>
-    <tspan x="0" dy="16">|   F     E     E     L                     |</tspan>
-    <tspan x="0" dy="16">|   F     EEEEE EEEEE LLLLL                 |</tspan>
-    <tspan x="0" dy="16">|                                           |</tspan>
-    <tspan x="0" dy="16">|   TTTTT EEEEE  CCCC H   H                 |</tspan>
-    <tspan x="0" dy="16">|     T   E     C     H   H                 |</tspan>
-    <tspan x="0" dy="16">|     T   EEEE  C     HHHHH                 |</tspan>
-    <tspan x="0" dy="16">|     T   E     C     H   H                 |</tspan>
-    <tspan x="0" dy="16">|     T   EEEEE  CCCC H   H                 |</tspan>
-    <tspan x="0" dy="16">|                                           |</tspan>
-    <tspan x="0" dy="16">|       INTERNATIONAL                       |</tspan>
-    <tspan x="0" dy="16">|                                           |</tspan>
-    <tspan x="0" dy="16">+-------------------------------------------+</tspan>
+  <text font-size="10" fill="url(#logoGrad)" filter="url(#textGlow)">
+    <tspan x="0" dy="0">╔═══════════════════════════════════════╗</tspan>
+    <tspan x="0" dy="14">║                                       ║</tspan>
+    <tspan x="0" dy="14">║   ███████╗███████╗███████╗██╗         ║</tspan>
+    <tspan x="0" dy="14">║   ██╔════╝██╔════╝██╔════╝██║         ║</tspan>
+    <tspan x="0" dy="14">║   █████╗  █████╗  █████╗  ██║         ║</tspan>
+    <tspan x="0" dy="14">║   ██╔══╝  ██╔══╝  ██╔══╝  ██║         ║</tspan>
+    <tspan x="0" dy="14">║   ██║     ███████╗███████╗███████╗    ║</tspan>
+    <tspan x="0" dy="14">║   ╚═╝     ╚══════╝╚══════╝╚══════╝    ║</tspan>
+    <tspan x="0" dy="14">║                                       ║</tspan>
+    <tspan x="0" dy="14">║      ████████╗███████╗ ██████╗██╗  ██╗║</tspan>
+    <tspan x="0" dy="14">║      ╚══██╔══╝██╔════╝██╔════╝██║  ██║║</tspan>
+    <tspan x="0" dy="14">║         ██║   █████╗  ██║     ███████║║</tspan>
+    <tspan x="0" dy="14">║         ██║   ██╔══╝  ██║     ██╔══██║║</tspan>
+    <tspan x="0" dy="14">║         ██║   ███████╗╚██████╗██║  ██║║</tspan>
+    <tspan x="0" dy="14">║         ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝║</tspan>
+    <tspan x="0" dy="14">║                                       ║</tspan>
+    <tspan x="0" dy="14">╚═══════════════════════════════════════╝</tspan>
   </text>
 </g>
 <g transform="translate(480, 70)">
   <text font-size="14" font-weight="bold" fill="url(#accent)" filter="url(#textGlow)">
-    <tspan x="0" dy="0">+-------------------------------------+</tspan>
-    <tspan x="0" dy="20">|  SYSTEM.INFO                        |</tspan>
-    <tspan x="0" dy="20">+-------------------------------------+</tspan>
+    <tspan x="0" dy="0">┌─────────────────────────────────────┐</tspan>
+    <tspan x="0" dy="20">│  SYSTEM.INFO                        │</tspan>
+    <tspan x="0" dy="20">└─────────────────────────────────────┘</tspan>
   </text>
   <g font-size="13">
     <text x="0" y="80" fill="#475569">$ <tspan fill="#0891B2">whoami</tspan></text>
-    <text x="0" y="100" fill="#0A192F" filter="url(#textGlow)">-&gt; FeelTech International</text>
+    <text x="0" y="100" fill="#0A192F" filter="url(#textGlow)">→ FeelTech International</text>
     <text x="0" y="130" fill="#475569">$ <tspan fill="#0891B2">cat</tspan> mission.txt</text>
-    <text x="0" y="150" fill="#0A192F" filter="url(#textGlow)">-&gt; Solutions Technologiques Innovantes</text>
+    <text x="0" y="150" fill="#0A192F" filter="url(#textGlow)">→ Solutions Technologiques Innovantes</text>
     <text x="0" y="180" fill="#475569">$ <tspan fill="#0891B2">echo</tspan> $LOCATION</text>
-    <text x="0" y="200" fill="#0A192F" filter="url(#textGlow)">-&gt; Douala, Cameroun</text>
+    <text x="0" y="200" fill="#0A192F" filter="url(#textGlow)">→ Douala, Cameroun</text>
     <text x="0" y="230" fill="#475569">$ <tspan fill="#0891B2">ls</tspan> ./stack/</text>
-    <text x="0" y="250" fill="#0891B2" filter="url(#textGlow)">-&gt; Flutter | .NET | Python | PostgreSQL</text>
+    <text x="0" y="250" fill="#0891B2" filter="url(#textGlow)">→ Flutter | .NET | Python | PostgreSQL</text>
     <text x="0" y="280" fill="#475569">$ <tspan fill="#0891B2">cat</tspan> expertise.json</text>
-    <text x="0" y="300" fill="#1E40AF" filter="url(#textGlow)">-&gt; EdTech | ERP | SaaS | FinTech</text>
+    <text x="0" y="300" fill="#1E40AF" filter="url(#textGlow)">→ EdTech | ERP | SaaS | FinTech</text>
     <text x="0" y="330" fill="#475569">$ <tspan fill="#0891B2">uptime</tspan></text>
-    <text x="0" y="350" fill="#0A192F" filter="url(#textGlow)">-&gt; Building Africa's Digital Future</text>
+    <text x="0" y="350" fill="#0A192F" filter="url(#textGlow)">→ Building Africa's Digital Future</text>
   </g>
 </g>
 <rect x="20" y="430" width="860" height="50" rx="8" fill="#E2E8F0" stroke="url(#accent)" stroke-width="1"/>
-<g transform="translate(40, 455)">
+<g transform="translate(40, 460)">
   <text font-size="12" fill="#475569">
-    <tspan fill="url(#accent)">*</tspan> STATUS: <tspan fill="#27CA40">ACTIVE</tspan>
-    <tspan dx="30" fill="url(#accent)">*</tspan> PROJECTS: <tspan fill="#0891B2">17+</tspan>
-    <tspan dx="30" fill="url(#accent)">*</tspan> COMMITS: <tspan fill="#0891B2">1.3k+</tspan>
-    <tspan dx="30" fill="url(#accent)">*</tspan> CLIENTS: <tspan fill="#0891B2">Growing</tspan>
+    <tspan fill="url(#accent)">●</tspan> STATUS: <tspan fill="#27CA40">ACTIVE</tspan>
+    <tspan dx="30" fill="url(#accent)">●</tspan> PROJECTS: <tspan fill="#0891B2">17+</tspan>
+    <tspan dx="30" fill="url(#accent)">●</tspan> COMMITS: <tspan fill="#0891B2">1.3k+</tspan>
+    <tspan dx="30" fill="url(#accent)">●</tspan> CLIENTS: <tspan fill="#0891B2">Growing</tspan>
   </text>
 </g>
 <rect x="40" y="400" width="10" height="18" fill="#0891B2">
