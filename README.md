@@ -1,5 +1,5 @@
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=1000&lines=🌍+FeelTech+International;Solutions+Technologiques+Innovantes;SaaS+Multi-Tenant+%7C+EdTech+%7C+ERP;Flutter+%7C+.NET+%7C+Python+%7C+PostgreSQL;Transformez+votre+vision+en+realite+numerique">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=1000&lines=🌍+FeelTech+International;Solutions+Technologiques+Innovantes;SaaS+Multi-Tenant+%7C+EdTech+%7C+ERP;Flutter+%7C+.NET+%7C+Python+%7C+PostgreSQL;Transformez+votre+vision+en+realite+numerique" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=1000&lines=FeelTech+International;Solutions+Technologiques+Innovantes;SaaS+Multi-Tenant+%7C+EdTech+%7C+ERP;Flutter+%7C+.NET+%7C+Python+%7C+PostgreSQL;Transformez+votre+vision+en+realite+numerique">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=1000&lines=FeelTech+International;Solutions+Technologiques+Innovantes;SaaS+Multi-Tenant+%7C+EdTech+%7C+ERP;Flutter+%7C+.NET+%7C+Python+%7C+PostgreSQL;Transformez+votre+vision+en+realite+numerique" alt="Typing SVG" />
 </a>
 
 <div align="center">
@@ -88,7 +88,7 @@ Concevoir et développer des **solutions SaaS multi-tenant** de qualité mondial
 
 <!-- Animation défilante des langages -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=35&lines=💻+Langages:+Dart+•+C%23+•+Python+•+TypeScript+•+JavaScript" alt="Languages" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=35&lines=Langages+-+Dart+%7C+C%23+%7C+Python+%7C+TypeScript+%7C+JavaScript" alt="Languages" />
 </a>
 
 <img src="https://skillicons.dev/icons?i=dart,cs,python,typescript,javascript,html,css&theme=dark" />
@@ -97,7 +97,7 @@ Concevoir et développer des **solutions SaaS multi-tenant** de qualité mondial
 
 <!-- Animation défilante des frameworks -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=35&lines=🚀+Frameworks:+Flutter+•+.NET+•+Next.js+•+React+•+FastAPI" alt="Frameworks" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=35&lines=Frameworks+-+Flutter+%7C+.NET+%7C+Next.js+%7C+React+%7C+FastAPI" alt="Frameworks" />
 </a>
 
 <img src="https://skillicons.dev/icons?i=flutter,dotnet,nextjs,react,fastapi,nodejs&theme=dark" />
@@ -106,7 +106,7 @@ Concevoir et développer des **solutions SaaS multi-tenant** de qualité mondial
 
 <!-- Animation défilante des databases -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&height=35&lines=🗄️+Databases:+PostgreSQL+•+Redis+•+MongoDB+•+Supabase" alt="Databases" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&height=35&lines=Databases:+PostgreSQL+%7C+Redis+%7C+MongoDB+%7C+Supabase" alt="Databases" />
 </a>
 
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase,aws&theme=dark" />
@@ -115,7 +115,7 @@ Concevoir et développer des **solutions SaaS multi-tenant** de qualité mondial
 
 <!-- Animation défilante DevOps -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=35&lines=DevOps:+Docker+•+Kubernetes+•+Git+•+GitHub+•+Linux" alt="DevOps" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=35&lines=DevOps+-+Docker+%7C+Kubernetes+%7C+Git+%7C+GitHub+%7C+Linux" alt="DevOps" />
 </a>
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux&theme=dark" />
