@@ -393,7 +393,9 @@ Veille technologique continue : IA, Cloud, Mobile-first
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=FeelTech-International&color=00D4AA&style=for-the-badge&label=VISITEURS" alt="Profile views" />
+<a href="https://github.com/FeelTech-International">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FeelTech-International.FeelTech-International&left_color=%230A192F&right_color=%2300D4AA&left_text=Visiteurs" alt="Visitors" />
+</a>
 
 <br/><br/>
 
