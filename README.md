@@ -1,141 +1,379 @@
-<h1 align="center">Ghislain Ngnepi</h1>
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=1000&lines=🌍+FeelTech+International;Solutions+Technologiques+Innovantes;SaaS+Multi-Tenant+%7C+EdTech+%7C+ERP;Flutter+%7C+.NET+%7C+Python+%7C+PostgreSQL;Transformez+votre+vision+en+réalité+numérique">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=1000&lines=🌍+FeelTech+International;Solutions+Technologiques+Innovantes;SaaS+Multi-Tenant+%7C+EdTech+%7C+ERP;Flutter+%7C+.NET+%7C+Python+%7C+PostgreSQL;Transformez+votre+vision+en+réalité+numérique" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <b>Fondateur &amp; Ingénieur logiciel</b> — <a href="https://feeltech-int.com/">FeelTech International</a>
-</p>
+<div align="center">
 
-<p align="center">
-  Ingénierie logicielle <b>AI-first</b> · SaaS multi-tenant · DevOps &amp; Cloud · Sécurité applicative
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:0891B2,100:1E40AF&height=180&section=header&text=FeelTech%20International&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Solutions%20Technologiques%20Innovantes%20pour%20l'Afrique&descSize=18&descAlignY=52" width="100%" />
 
-<p align="center">
-  🌍 Douala 🇨🇲 · Montréal 🇨🇦 &nbsp;•&nbsp; 🌐 <a href="https://feeltech-int.com/">feeltech-int.com</a>
-</p>
+<br/>
 
----
+[![Website](https://img.shields.io/badge/🌐_Site_Web-feeltech--int.com-00D4AA?style=for-the-badge&labelColor=0A192F)](https://feeltech-int.com/)
+[![Location](https://img.shields.io/badge/📍_Douala-Cameroun-0891B2?style=for-the-badge&labelColor=0A192F)](https://goo.gl/maps/cameroon)
+[![Repos](https://img.shields.io/badge/📦_Projets-17+-1E40AF?style=for-the-badge&labelColor=0A192F)](https://github.com/FeelTech-International?tab=repositories)
 
-## 👋 À propos
-
-Ingénieur logiciel et **fondateur de FeelTech International**, je transforme des besoins métier complexes en **plateformes numériques fiables, sécurisées et prêtes pour la production**. Mon terrain de prédilection : les **SaaS multi-tenant**, les **ERP** et les systèmes de gestion à fort enjeu — RH & paie, finance, éducation, contrôle d'accès — là où la moindre faille se paie, et où la rigueur n'est donc pas une option.
-
-Je maîtrise **toute la chaîne de valeur logicielle** : modélisation de bases de données, architecture applicative, développement **web & mobile**, **sécurité** (isolation stricte des données, chiffrement, authentification forte) et **exploitation** (CI/CD, cloud, déploiement continu). Cette vision de bout en bout me permet de livrer des produits **cohérents, performants et maintenables**, puis de les faire vivre dans la durée — pas seulement de les mettre en ligne.
-
-Ma conviction : **l'intelligence artificielle est un levier d'ingénierie, pas un gadget.** Je l'intègre à chaque étape du cycle de développement pour accélérer la livraison **sans jamais transiger sur la qualité ni la sécurité**. J'accompagne chaque client avec transparence, du premier échange jusqu'à la maintenance, guidé par un principe simple : **livrer en confiance, ne rien casser.**
-
-> _« The best way to predict the future is to invent it. »_ &nbsp;—&nbsp; **Alan Kay**, pionnier de l'informatique moderne
-> <br/><sub>« La meilleure façon de prédire l'avenir, c'est de l'inventer. »</sub>
+</div>
 
 ---
 
-## 🤖 Ingénierie augmentée par l'IA
+<div align="center">
 
-J'ai fait de l'IA une véritable **méthode de travail**, mobilisée sur **l'ensemble du génie logiciel** :
+## 🚀 Notre Mission
 
-| Étape | Apport de l'IA |
-|---|---|
-| 🧭 **Conception & architecture** | explorer davantage d'options, valider les choix techniques plus vite |
-| ⌨️ **Développement** | produire un code idiomatique, testé et cohérent, à haute cadence |
-| 🔐 **Sécurité** | revues automatisées, détection de vulnérabilités, durcissement (RLS, chiffrement, MFA) |
-| 🧪 **Tests & qualité** | couverture de tests, revues systématiques, prévention des régressions |
-| 🚀 **CI/CD & exploitation** | pipelines fiabilisés, migrations sûres, mises en production maîtrisées |
-| 📚 **Documentation** | docs techniques et guides utilisateurs toujours à jour |
+</div>
 
-> **Ce que ça change pour vous :** des délais courts, un budget maîtrisé et un logiciel robuste dans la durée.
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
----
+### 💡 Vision
 
-## 🚀 Projets en production
+Être le **catalyseur de la transformation numérique** en Afrique en fournissant des solutions technologiques innovantes, fiables et accessibles.
 
-Des plateformes **réellement déployées et utilisées** — cliquez pour visiter :
+</td>
+<td width="50%" align="center">
 
-| Projet | Description | Lien |
-|---|---|---|
-| 🏢 **Cool ERP** | ERP web/PWA multi-société : RH & paie, finance, achats, immobilisations, messagerie chiffrée. Offline-first. | **[cool-erp.com](https://cool-erp.com)** |
-| 🌟 **Cool ERP — vitrine** | Site commercial de présentation de la suite Cool ERP. | **[coo-ent.com](https://coo-ent.com)** |
-| 🎓 **AGES** | Système intégré de gestion des établissements scolaires. | **[ages-five.vercel.app](https://ages-five.vercel.app)** |
-| 🪪 **Student Check** | Plateforme de contrôle d'accès des étudiants. | **[portal.agpevi.cm](https://portal.agpevi.cm)** |
-| 🖥️ **FeelTech International** | Site officiel & vitrine de services. | **[feeltech-int.com](https://feeltech-int.com)** |
+### 🎯 Mission
+
+Concevoir et développer des **solutions SaaS multi-tenant** de qualité mondiale adaptées aux réalités africaines : **EdTech**, **ERP**, **FinTech**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Stack technique
+<div align="center">
 
-**🤖 IA & ingénierie augmentée**
-&nbsp;
-![LLM Agents](https://img.shields.io/badge/LLM%20Agents-5A0FC8?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![AI-Assisted Dev](https://img.shields.io/badge/AI--Assisted%20Dev-000000?style=flat&logo=githubcopilot&logoColor=white)
+## 📊 Statistiques GitHub
 
-**💻 Langages**
-&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL / PL·pgSQL](https://img.shields.io/badge/SQL%20%2F%20PL%2FpgSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=FeelTech-International&hide_border=true&background=0A192F&stroke=00D4AA&ring=0891B2&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B&card_width=900" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=FeelTech-International&hide_border=true&background=FFFFFF&stroke=0891B2&ring=00D4AA&fire=0891B2&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0A192F&sideNums=0A192F&dates=64748B&card_width=900" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=FeelTech-International&hide_border=true&background=0A192F&stroke=00D4AA&ring=0891B2&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B&card_width=900" width="100%" alt="GitHub Streak" />
+</picture>
 
-**🎨 Front-end**
-&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+</div>
 
-**⚙️ Back-end & données**
-&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white)
-![Realtime](https://img.shields.io/badge/Realtime-3ECF8E?style=flat&logo=socketdotio&logoColor=white)
+<div align="center">
 
-**🔐 Sécurité**
-&nbsp;
-![Row Level Security](https://img.shields.io/badge/Row%20Level%20Security-DD2222?style=flat&logo=postgresql&logoColor=white)
-![MFA / TOTP](https://img.shields.io/badge/MFA%20%2F%20TOTP-2E7D32?style=flat&logo=authy&logoColor=white)
-![JWT / OAuth](https://img.shields.io/badge/JWT%20%2F%20OAuth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Chiffrement](https://img.shields.io/badge/Chiffrement%20au%20repos-455A64?style=flat&logo=letsencrypt&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FeelTech-International&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00D4AA&icon_color=0891B2&text_color=94A3B8&bg_color=0A192F&card_width=495" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FeelTech-International&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0891B2&icon_color=00D4AA&text_color=475569&bg_color=FFFFFF&card_width=495" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FeelTech-International&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00D4AA&icon_color=0891B2&text_color=94A3B8&bg_color=0A192F&card_width=495" alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FeelTech-International&layout=compact&langs_count=8&hide_border=true&title_color=00D4AA&text_color=94A3B8&bg_color=0A192F&card_width=495" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FeelTech-International&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=475569&bg_color=FFFFFF&card_width=495" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeelTech-International&layout=compact&langs_count=8&hide_border=true&title_color=00D4AA&text_color=94A3B8&bg_color=0A192F&card_width=495" alt="Top Languages" />
+</picture>
+
+</div>
 
 ---
 
-## 🚢 DevOps & Cloud
+<div align="center">
 
-L'exploitation, c'est la moitié du logiciel. Je construis des **chaînes d'intégration et de déploiement continues** (tests → build → déploiement *gated*), je **conteneurise**, j'automatise l'**infrastructure as code** et je livre en production **sans casser**.
+## 🛠️ Stack Technologique
 
-&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4479A1?style=flat&logo=githubactions&logoColor=white)
+### Langages de Programmation
 
----
+<img src="https://skillicons.dev/icons?i=dart,cs,python,typescript,javascript,html,css" />
 
-## 🧰 Services
+### Frameworks & Plateformes
 
-**Logiciels sur mesure** (web, mobile, desktop) &nbsp;•&nbsp; **SaaS multi-tenant** &nbsp;•&nbsp; **Digitalisation &amp; automatisation** de processus &nbsp;•&nbsp; **Conseil IT &amp; audit** &nbsp;•&nbsp; **E-commerce &amp; sites vitrines** &nbsp;•&nbsp; **Maintenance, hébergement cloud &amp; externalisation de talents IT**
+<img src="https://skillicons.dev/icons?i=flutter,dotnet,nextjs,react,fastapi,nodejs" />
 
-<sub>Devis clair &amp; détaillé · Respect des délais · Accompagnement continu · Sécurité par conception</sub>
+### Bases de Données & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase,aws" />
+
+### DevOps & Outils
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux" />
+
+</div>
 
 ---
 
-## 📫 Travaillons ensemble
+<div align="center">
 
-<p>
-  <a href="https://feeltech-int.com/contact"><img src="https://img.shields.io/badge/Demander%20un%20devis-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Devis"/></a>
-  <a href="https://feeltech-int.com/"><img src="https://img.shields.io/badge/feeltech--int.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Site"/></a>
-</p>
+## 🏆 Domaines d'Expertise
 
-<sub>« Construire des logiciels efficaces, augmentés par l'IA — livrer en confiance, ne rien casser. »</sub>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🎓 EdTech
+
+Plateformes de gestion scolaire complètes : inscriptions, notes, emplois du temps, e-learning
+
+</td>
+<td align="center" width="25%">
+
+### 🏢 ERP
+
+Solutions ERP multi-tenant pour entreprises : comptabilité, RH, inventaire, CRM
+
+</td>
+<td align="center" width="25%">
+
+### 💳 FinTech
+
+Systèmes de gestion financière : crédits, investissements, micro-finance
+
+</td>
+<td align="center" width="25%">
+
+### 📱 Mobile
+
+Applications Flutter cross-platform : iOS, Android, Web, Desktop
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌟 Projets Phares
+
+</div>
+
+<details>
+<summary><strong>🎓 FeelSchool — Plateforme de Gestion Scolaire Complète</strong></summary>
+
+<br/>
+
+Solution SaaS tout-en-un pour la gestion des établissements scolaires, de la maternelle à l'université.
+
+| Aspect | Détails |
+|--------|---------|
+| **Stack** | C# · ASP.NET · PostgreSQL · HTML/CSS · JavaScript |
+| **Architecture** | Multi-tenant · Microservices · API REST |
+| **Fonctionnalités** | Inscriptions · Notes · Bulletins · Emploi du temps · Paiements · Communication parents |
+| **Déploiement** | Docker · CI/CD · Cloud-ready |
+| **Impact** | Digitalisation de plusieurs établissements au Cameroun |
+
+### Modules Principaux
+
+- 📝 **Gestion des inscriptions** — Workflow complet d'admission
+- 📊 **Gestion académique** — Notes, moyennes, bulletins automatisés
+- 📅 **Planning** — Emplois du temps, salles, enseignants
+- 💰 **Comptabilité scolaire** — Frais, paiements, relances
+- 👨‍👩‍👧 **Portail parents** — Suivi en temps réel
+
+[![Voir le projet](https://img.shields.io/badge/GitHub-FeelSchool-00D4AA?style=for-the-badge&logo=github)](https://github.com/FeelTech-International/FeelSchool)
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>🏢 Cool-ERP — Solution ERP Multi-Tenant</strong></summary>
+
+<br/>
+
+ERP moderne et modulaire conçu pour les PME africaines avec plus de **15 millions de lignes de code**.
+
+| Aspect | Détails |
+|--------|---------|
+| **Stack** | Flutter · Python · PostgreSQL · TypeScript |
+| **Architecture** | Multi-tenant · SaaS · API-first |
+| **Plateformes** | Web · iOS · Android · Desktop (Windows, macOS, Linux) |
+| **Modules** | Comptabilité · RH · Stock · Ventes · Achats · CRM |
+| **Sécurité** | JWT · RBAC · Audit logs · Encryption |
+
+### Points Forts
+
+- 🔄 **Synchronisation offline** — Fonctionne même sans connexion
+- 🏢 **Multi-entreprises** — Un seul déploiement, plusieurs tenants
+- 📈 **Tableaux de bord** — Analytics en temps réel
+- 🔐 **Sécurité renforcée** — Conformité aux standards internationaux
+- 🌍 **Multilingue** — Français, Anglais, et plus
+
+[![Voir le projet](https://img.shields.io/badge/GitHub-Cool--ERP-0891B2?style=for-the-badge&logo=github)](https://github.com/FeelTech-International/cool-erp)
+[![Landing Page](https://img.shields.io/badge/Website-CoolErp-1E40AF?style=for-the-badge&logo=vercel)](https://github.com/FeelTech-International/CoolErp-Website)
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>🔐 Student Check — Contrôle d'Accès Intelligent</strong></summary>
+
+<br/>
+
+Application mobile de contrôle d'accès et de présence des étudiants avec QR Code et NFC.
+
+| Aspect | Détails |
+|--------|---------|
+| **Stack** | Flutter · Dart · PostgreSQL · TypeScript |
+| **Plateformes** | iOS · Android |
+| **Technologies** | QR Code · NFC · Biométrie · GPS |
+| **Intégration** | API FeelSchool · Notifications push |
+
+### Fonctionnalités
+
+- 📱 **Scan QR/NFC** — Pointage instantané
+- 📊 **Rapports présence** — Statistiques détaillées
+- 🔔 **Alertes parents** — Notification en temps réel
+- 📍 **Géolocalisation** — Vérification de position
+- 📈 **Dashboard admin** — Vue d'ensemble complète
+
+[![Voir le projet](https://img.shields.io/badge/GitHub-Student__Check-00D4AA?style=for-the-badge&logo=github)](https://github.com/FeelTech-International/Student_check)
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>📚 FeelSchool E-Learning — Plateforme d'Apprentissage</strong></summary>
+
+<br/>
+
+Plateforme e-learning intégrée à l'écosystème FeelSchool pour l'enseignement à distance.
+
+| Aspect | Détails |
+|--------|---------|
+| **Stack** | TypeScript · Next.js · PostgreSQL |
+| **Fonctionnalités** | Cours vidéo · Quiz · Devoirs · Forums |
+| **Intégration** | FeelSchool · Visioconférence · Certificats |
+
+[![Voir le projet](https://img.shields.io/badge/GitHub-FeelSchool_ELearning-0891B2?style=for-the-badge&logo=github)](https://github.com/FeelTech-International/FeelSchoolELearning)
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>💰 Daily Management — Gestion Financière</strong></summary>
+
+<br/>
+
+Système de gestion des investissements et de micro-crédit pour institutions financières.
+
+| Aspect | Détails |
+|--------|---------|
+| **Domaine** | FinTech · Micro-finance |
+| **Fonctionnalités** | Gestion crédits · Suivi investissements · Remboursements · Rapports |
+| **Sécurité** | Audit trail · Multi-niveaux d'approbation |
+
+[![Voir le projet](https://img.shields.io/badge/GitHub-Daily_Management-1E40AF?style=for-the-badge&logo=github)](https://github.com/FeelTech-International/Daily-Management-DM-)
+
+</details>
+
+---
+
+<div align="center">
+
+## 📈 Graphique d'Activité
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FeelTech-International&bg_color=0A192F&color=00D4AA&line=0891B2&point=00D4AA&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FeelTech-International&bg_color=FFFFFF&color=0891B2&line=00D4AA&point=1E40AF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FeelTech-International&bg_color=0A192F&color=00D4AA&line=0891B2&point=00D4AA&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/output/snake-light.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/output/snake-light.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Travaillons Ensemble
+
+Vous avez un projet de **digitalisation** ? Nous sommes là pour vous accompagner.
+
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_Visitez_notre_site-feeltech--int.com-00D4AA?style=for-the-badge&labelColor=0A192F)](https://feeltech-int.com/)
+[![Email](https://img.shields.io/badge/📧_Contactez--nous-Email-0891B2?style=for-the-badge&labelColor=0A192F)](mailto:contact@feeltech-int.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FeelTech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/feeltech-international)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Nos Services
+
+| Service | Description |
+|:-------:|-------------|
+| 🎓 **Solutions EdTech** | Plateformes scolaires sur mesure, e-learning, gestion académique |
+| 🏢 **ERP & CRM** | Solutions de gestion d'entreprise complètes et modulaires |
+| 📱 **Apps Mobiles** | Développement Flutter cross-platform (iOS, Android, Web) |
+| ☁️ **SaaS Multi-Tenant** | Architecture cloud-native, scalable et sécurisée |
+| 🔧 **Consulting IT** | Accompagnement transformation digitale, audit, formation |
+| 🛡️ **DevOps & Sécurité** | CI/CD, infrastructure cloud, sécurité applicative |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌍 Impact & Valeurs
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🇨🇲 Made in Africa
+
+Solutions conçues pour les réalités africaines : connectivité variable, multi-devises, réglementations locales
+
+</td>
+<td align="center" width="33%">
+
+### 🔒 Sécurité First
+
+Architecture sécurisée dès la conception : encryption, audit, conformité RGPD
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Innovation
+
+Veille technologique continue : IA, Cloud, Mobile-first
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### `Transformer l'Afrique, une ligne de code à la fois.`
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=FeelTech-International&color=00D4AA&style=for-the-badge&label=VISITEURS" alt="Profile views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:0891B2,100:1E40AF&height=120&section=footer&animation=fadeIn" width="100%" />
+
+</div>
