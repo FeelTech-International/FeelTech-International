@@ -1,5 +1,5 @@
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=1000&lines=🌍+FeelTech+International;Solutions+Technologiques+Innovantes;SaaS+Multi-Tenant+%7C+EdTech+%7C+ERP;Flutter+%7C+.NET+%7C+Python+%7C+PostgreSQL;Transformez+votre+vision+en+réalité+numérique">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=1000&lines=🌍+FeelTech+International;Solutions+Technologiques+Innovantes;SaaS+Multi-Tenant+%7C+EdTech+%7C+ERP;Flutter+%7C+.NET+%7C+Python+%7C+PostgreSQL;Transformez+votre+vision+en+réalité+numérique" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=1000&lines=🌍+FeelTech+International;Solutions+Technologiques+Innovantes;SaaS+Multi-Tenant+%7C+EdTech+%7C+ERP;Flutter+%7C+.NET+%7C+Python+%7C+PostgreSQL;Transformez+votre+vision+en+realite+numerique">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=1000&lines=🌍+FeelTech+International;Solutions+Technologiques+Innovantes;SaaS+Multi-Tenant+%7C+EdTech+%7C+ERP;Flutter+%7C+.NET+%7C+Python+%7C+PostgreSQL;Transformez+votre+vision+en+realite+numerique" alt="Typing SVG" />
 </a>
 
 <div align="center">
@@ -44,7 +44,7 @@
 
 ### 🎯 Mission
 
-Concevoir et développer des **solutions SaaS multi-tenant** de qualité mondiale adaptées aux réalités africaines : **EdTech**, **ERP**, **FinTech**.
+Concevoir et développer des **solutions SaaS multi-tenant** de qualité mondiale adaptées aux realites africaines : **EdTech**, **ERP**, **FinTech**.
 
 </td>
 </tr>
@@ -115,7 +115,7 @@ Concevoir et développer des **solutions SaaS multi-tenant** de qualité mondial
 
 <!-- Animation défilante DevOps -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=35&lines=⚙️+DevOps:+Docker+•+Kubernetes+•+Git+•+GitHub+•+Linux" alt="DevOps" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=35&lines=DevOps:+Docker+•+Kubernetes+•+Git+•+GitHub+•+Linux" alt="DevOps" />
 </a>
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux&theme=dark" />
@@ -136,7 +136,7 @@ Concevoir et développer des **solutions SaaS multi-tenant** de qualité mondial
 
 ### 🎓 EdTech
 
-Plateformes de gestion scolaire complètes : inscriptions, notes, emplois du temps, e-learning
+Plateformes de gestion scolaire completes : inscriptions, notes, emplois du temps, e-learning
 
 </td>
 <td align="center" width="25%">
@@ -150,7 +150,7 @@ Solutions ERP multi-tenant pour entreprises : comptabilité, RH, inventaire, CRM
 
 ### 💳 FinTech
 
-Systèmes de gestion financière : crédits, investissements, micro-finance
+Systemes de gestion financiere : crédits, investissements, micro-finance
 
 </td>
 <td align="center" width="25%">
@@ -213,14 +213,14 @@ ERP moderne et modulaire conçu pour les PME africaines avec plus de **15 millio
 | **Architecture** | Multi-tenant · SaaS · API-first |
 | **Plateformes** | Web · iOS · Android · Desktop (Windows, macOS, Linux) |
 | **Modules** | Comptabilité · RH · Stock · Ventes · Achats · CRM |
-| **Sécurité** | JWT · RBAC · Audit logs · Encryption |
+| **Securite** | JWT · RBAC · Audit logs · Encryption |
 
 ### Points Forts
 
 - 🔄 **Synchronisation offline** — Fonctionne même sans connexion
 - 🏢 **Multi-entreprises** — Un seul déploiement, plusieurs tenants
 - 📈 **Tableaux de bord** — Analytics en temps réel
-- 🔐 **Sécurité renforcée** — Conformité aux standards internationaux
+- 🔐 **Securite renforcée** — Conformité aux standards internationaux
 - 🌍 **Multilingue** — Français, Anglais, et plus
 
 [![Voir le projet](https://img.shields.io/badge/GitHub-Cool--ERP-0891B2?style=for-the-badge&logo=github)](https://github.com/FeelTech-International/cool-erp)
@@ -231,11 +231,11 @@ ERP moderne et modulaire conçu pour les PME africaines avec plus de **15 millio
 <br/>
 
 <details>
-<summary><strong>🔐 Student Check — Contrôle d'Accès Intelligent</strong></summary>
+<summary><strong>🔐 Student Check — Controle d'Accès Intelligent</strong></summary>
 
 <br/>
 
-Application mobile de contrôle d'accès et de présence des étudiants avec QR Code et NFC.
+Application mobile de contrôle d'acces et de présence des étudiants avec QR Code et NFC.
 
 | Aspect | Détails |
 |--------|---------|
@@ -250,7 +250,7 @@ Application mobile de contrôle d'accès et de présence des étudiants avec QR 
 - 📊 **Rapports présence** — Statistiques détaillées
 - 🔔 **Alertes parents** — Notification en temps réel
 - 📍 **Géolocalisation** — Vérification de position
-- 📈 **Dashboard admin** — Vue d'ensemble complète
+- 📈 **Dashboard admin** — Vue d'ensemble complete
 
 [![Voir le projet](https://img.shields.io/badge/GitHub-Student__Check-00D4AA?style=for-the-badge&logo=github)](https://github.com/FeelTech-International/Student_check)
 
@@ -282,13 +282,13 @@ Plateforme e-learning intégrée à l'écosystème FeelSchool pour l'enseignemen
 
 <br/>
 
-Système de gestion des investissements et de micro-crédit pour institutions financières.
+Système de gestion des investissements et de micro-crédit pour institutions financieres.
 
 | Aspect | Détails |
 |--------|---------|
 | **Domaine** | FinTech · Micro-finance |
 | **Fonctionnalités** | Gestion crédits · Suivi investissements · Remboursements · Rapports |
-| **Sécurité** | Audit trail · Multi-niveaux d'approbation |
+| **Securite** | Audit trail · Multi-niveaux d'approbation |
 
 [![Voir le projet](https://img.shields.io/badge/GitHub-Daily_Management-1E40AF?style=for-the-badge&logo=github)](https://github.com/FeelTech-International/Daily-Management-DM-)
 
@@ -347,11 +347,11 @@ Vous avez un projet de **digitalisation** ? Nous sommes là pour vous accompagne
 | Service | Description |
 |:-------:|-------------|
 | 🎓 **Solutions EdTech** | Plateformes scolaires sur mesure, e-learning, gestion académique |
-| 🏢 **ERP & CRM** | Solutions de gestion d'entreprise complètes et modulaires |
+| 🏢 **ERP & CRM** | Solutions de gestion d'entreprise completes et modulaires |
 | 📱 **Apps Mobiles** | Développement Flutter cross-platform (iOS, Android, Web) |
 | ☁️ **SaaS Multi-Tenant** | Architecture cloud-native, scalable et sécurisée |
 | 🔧 **Consulting IT** | Accompagnement transformation digitale, audit, formation |
-| 🛡️ **DevOps & Sécurité** | CI/CD, infrastructure cloud, sécurité applicative |
+| 🛡️ **DevOps & Securite** | CI/CD, infrastructure cloud, sécurité applicative |
 
 </div>
 
@@ -367,12 +367,12 @@ Vous avez un projet de **digitalisation** ? Nous sommes là pour vous accompagne
 
 ### 🇨🇲 Made in Africa
 
-Solutions conçues pour les réalités africaines : connectivité variable, multi-devises, réglementations locales
+Solutions conçues pour les realites africaines : connectivité variable, multi-devises, réglementations locales
 
 </td>
 <td align="center" width="33%">
 
-### 🔒 Sécurité First
+### 🔒 Securite First
 
 Architecture sécurisée dès la conception : encryption, audit, conformité RGPD
 
@@ -393,7 +393,7 @@ Veille technologique continue : IA, Cloud, Mobile-first
 
 <div align="center">
 
-### `Transformer l'Afrique, une ligne de code à la fois.`
+### `Transformer Afrique, une ligne de code à la fois.`
 
 <br/>
 
