@@ -42,24 +42,24 @@
   <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
 </rect>
 <g transform="translate(40, 70)">
-  <text font-size="10" fill="url(#logoGrad)" filter="url(#textGlow)">
-    <tspan x="0" dy="0">╔═══════════════════════════════════════╗</tspan>
-    <tspan x="0" dy="14">║                                       ║</tspan>
-    <tspan x="0" dy="14">║   ███████╗███████╗███████╗██╗         ║</tspan>
-    <tspan x="0" dy="14">║   ██╔════╝██╔════╝██╔════╝██║         ║</tspan>
-    <tspan x="0" dy="14">║   █████╗  █████╗  █████╗  ██║         ║</tspan>
-    <tspan x="0" dy="14">║   ██╔══╝  ██╔══╝  ██╔══╝  ██║         ║</tspan>
-    <tspan x="0" dy="14">║   ██║     ███████╗███████╗███████╗    ║</tspan>
-    <tspan x="0" dy="14">║   ╚═╝     ╚══════╝╚══════╝╚══════╝    ║</tspan>
-    <tspan x="0" dy="14">║                                       ║</tspan>
-    <tspan x="0" dy="14">║      ████████╗███████╗ ██████╗██╗  ██╗║</tspan>
-    <tspan x="0" dy="14">║      ╚══██╔══╝██╔════╝██╔════╝██║  ██║║</tspan>
-    <tspan x="0" dy="14">║         ██║   █████╗  ██║     ███████║║</tspan>
-    <tspan x="0" dy="14">║         ██║   ██╔══╝  ██║     ██╔══██║║</tspan>
-    <tspan x="0" dy="14">║         ██║   ███████╗╚██████╗██║  ██║║</tspan>
-    <tspan x="0" dy="14">║         ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝║</tspan>
-    <tspan x="0" dy="14">║                                       ║</tspan>
-    <tspan x="0" dy="14">╚═══════════════════════════════════════╝</tspan>
+  <text font-size="10" fill="url(#logoGrad)" filter="url(#textGlow)" xml:space="preserve">
+    <tspan x="0" dy="0">╔════════════════════════════════════════╗</tspan>
+    <tspan x="0" dy="14">║                                        ║</tspan>
+    <tspan x="0" dy="14">║  ████████ ████████ ████████ ██         ║</tspan>
+    <tspan x="0" dy="14">║  ██       ██       ██       ██         ║</tspan>
+    <tspan x="0" dy="14">║  ██████   ██████   ██████   ██         ║</tspan>
+    <tspan x="0" dy="14">║  ██       ██       ██       ██         ║</tspan>
+    <tspan x="0" dy="14">║  ██       ████████ ████████ ████████   ║</tspan>
+    <tspan x="0" dy="14">║                                        ║</tspan>
+    <tspan x="0" dy="14">║  ████████ ████████  ██████  ██     ██  ║</tspan>
+    <tspan x="0" dy="14">║     ██    ██       ██       ██     ██  ║</tspan>
+    <tspan x="0" dy="14">║     ██    ██████   ██       █████████  ║</tspan>
+    <tspan x="0" dy="14">║     ██    ██       ██       ██     ██  ║</tspan>
+    <tspan x="0" dy="14">║     ██    ████████  ██████  ██     ██  ║</tspan>
+    <tspan x="0" dy="14">║                                        ║</tspan>
+    <tspan x="0" dy="14">║         I N T E R N A T I O N A L      ║</tspan>
+    <tspan x="0" dy="14">║                                        ║</tspan>
+    <tspan x="0" dy="14">╚════════════════════════════════════════╝</tspan>
   </text>
 </g>
 <g transform="translate(480, 70)">
