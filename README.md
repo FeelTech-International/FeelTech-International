@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<!-- Logo FeelTech avec support mode clair/sombre -->
+<!-- Terminal Profile animé -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/main/Logo.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/main/Logo.png">
-  <img alt="FeelTech International" src="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/main/Logo.png" width="280" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/main/terminal_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/main/terminal_light.svg">
+  <img alt="FeelTech International Terminal" src="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/main/terminal_dark.svg" width="100%" />
 </picture>
 
 <br/><br/>
