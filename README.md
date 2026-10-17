@@ -4,7 +4,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:0891B2,100:1E40AF&height=180&section=header&text=FeelTech%20International&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Solutions%20Technologiques%20Innovantes%20pour%20l'Afrique&descSize=18&descAlignY=52" width="100%" />
+<!-- Logo FeelTech avec support mode clair/sombre -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/main/Logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/main/Logo.png">
+  <img alt="FeelTech International" src="https://raw.githubusercontent.com/FeelTech-International/FeelTech-International/main/Logo.png" width="280" />
+</picture>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,50:0891B2,100:1E40AF&height=120&section=header&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -77,21 +86,39 @@ Concevoir et développer des **solutions SaaS multi-tenant** de qualité mondial
 
 ## 🛠️ Stack Technologique
 
-### Langages de Programmation
+<!-- Animation défilante des langages -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=35&lines=💻+Langages:+Dart+•+C%23+•+Python+•+TypeScript+•+JavaScript" alt="Languages" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=dart,cs,python,typescript,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=dart,cs,python,typescript,javascript,html,css&theme=dark" />
 
-### Frameworks & Plateformes
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dotnet,nextjs,react,fastapi,nodejs" />
+<!-- Animation défilante des frameworks -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=35&lines=🚀+Frameworks:+Flutter+•+.NET+•+Next.js+•+React+•+FastAPI" alt="Frameworks" />
+</a>
 
-### Bases de Données & Cloud
+<img src="https://skillicons.dev/icons?i=flutter,dotnet,nextjs,react,fastapi,nodejs&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase,aws" />
+<br/><br/>
 
-### DevOps & Outils
+<!-- Animation défilante des databases -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&height=35&lines=🗄️+Databases:+PostgreSQL+•+Redis+•+MongoDB+•+Supabase" alt="Databases" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase,aws&theme=dark" />
+
+<br/><br/>
+
+<!-- Animation défilante DevOps -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=35&lines=⚙️+DevOps:+Docker+•+Kubernetes+•+Git+•+GitHub+•+Linux" alt="DevOps" />
+</a>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,linux&theme=dark" />
 
 </div>
 
